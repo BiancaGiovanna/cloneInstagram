@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 💻 Sobre o projeto
 
 O projeto foi desenvolvido com a ideia de treinar front-end e display-flex.
@@ -9,3 +10,4 @@ Através disso tive a oportunidade de aprimorar meus conhecimentos com HTML5 e C
    <img src="./github/preview.git" alt="Clone do instagram" />
 </h1>
 
+<h4 align=center>Desenvolvido por Bianca Giovanna <a href="https://www.linkedin.com/in/bianca-giovanna/"> <strong>Entre em contato</strong> :D</a></a></h4>
